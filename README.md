@@ -39,7 +39,7 @@ I like to keep updated by reading tech articles and do self-learning on CS50 & C
   
   
 ## Projects 
-👉🏽 [CapyBara](http://www.capybara-app.me/) : CapyBara is a social platform to connect with like-minded people with shared interests. Whether you're a music lover, foodie, traveller, or sports enthusiast, the app will help you find and connect with others who share your passions! This web-app was created using Ruby on Rails <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="16" height="16">
+👉🏽 [CapyBara]: CapyBara is a social platform to connect with like-minded people with shared interests. Whether you're a music lover, foodie, traveller, or sports enthusiast, the app will help you find and connect with others who share your passions! This web-app was created using Ruby on Rails <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="16" height="16">
 
 
 ## 👩🏽‍💻 Lets connect!
