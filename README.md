@@ -3,9 +3,9 @@
 <p align="center"><img src="https://media.giphy.com/media/gkR7q9XjU6dQJO19Bk/giphy.gif"/></p>
 
 ## About me:
-I am a (recent) Full Stack Developer and I am looking to further my technical skills in various programming languages! 🤓
+I'm a Junior Full Stack Developer and I am looking to further my technical skills in various programming languages! 🤓
 
-In my free time I like to read tech articles and do self-learning on Codecademy & GeeksforGeeks 👾 
+I like to keep updated by reading tech articles and do self-learning on CS50 & Codecademy 👾 
 
 
 
