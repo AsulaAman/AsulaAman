@@ -3,9 +3,9 @@
 <p align="center"><img src="https://media.giphy.com/media/gkR7q9XjU6dQJO19Bk/giphy.gif"/></p>
 
 ## About me:
-I'm a Junior Full Stack Developer and I am looking to further my technical skills in various programming languages! 🤓
+I'm a Junior Full Stack Developer, and I am looking to further my technical skills in various programming languages! 🤓
 
-I like to keep updated by reading tech articles and do self-learning on CS50 & Codecademy 👾 
+I like to keep updated by reading tech articles and doing self-learning on CS50 & Codecademy 👾 
 
 
 
@@ -39,10 +39,14 @@ I like to keep updated by reading tech articles and do self-learning on CS50 & C
   
   
 ## Projects 
-👉🏽 [CapyBara]: CapyBara is a social platform to connect with like-minded people with shared interests. Whether you're a music lover, foodie, traveller, or sports enthusiast, the app will help you find and connect with others who share your passions! This web-app was created using Ruby on Rails <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="16" height="16">
-
-
-## 👩🏽‍💻 Lets connect!
+👉🏽 Automated Azure SQL Database Creation with Terraform: This project provides an automated solution for deploying an Azure SQL Database using Terraform, along with optional post-deployment testing using Bash scripts.
+• Applied core skills in Azure services, Git, and cloud automation to deliver a secure
+and repeatable infrastructure solution.
+👉🏽 Open Data Pipeline (CS50 Final Project): This project is an ETL pipeline on UK train delays. It extracts data from CSV files, transforms it, and loads it into a PostgreSQL database.
+• Includes automated scheduling with Airflow DAGs and ensured data validation through test operators. 
+👉🏽 CapyBara: CapyBara is a social platform to connect with like-minded people with shared interests, created using Ruby on Rails. 
+• Built with front-end and back-end collaboration, integrated RESTful routing, and UI/UX principles. Focused on inclusive, accessible design.
+## 👩🏽‍💻 Let's connect!
 <div id="badges">
   <a href="https://www.linkedin.com/in/asula-aman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
